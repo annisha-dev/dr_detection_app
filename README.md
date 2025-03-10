@@ -1,6 +1,7 @@
 # dr_detection_app
 
 A new Flutter project.
+Diabetic Retinopathy (DR) is one of the leading causes of blindness globally, particularly affecting individuals with long-term diabetes. As diabetes cases continue to rise, so does the risk of DR, which occurs due to damage to the small blood vessels in the retina.
 
 ## Getting Started
 
