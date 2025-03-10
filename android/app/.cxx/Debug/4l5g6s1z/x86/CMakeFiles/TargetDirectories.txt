@@ -1,0 +1,2 @@
+/Users/annishabassi/dr_detection_app/android/app/.cxx/Debug/4l5g6s1z/x86/CMakeFiles/edit_cache.dir
+/Users/annishabassi/dr_detection_app/android/app/.cxx/Debug/4l5g6s1z/x86/CMakeFiles/rebuild_cache.dir
